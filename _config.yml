@@ -27,7 +27,7 @@ author:
   # bio              : "Short biography for the left-hand sidebar"
   # location         : "Earth"
   employer         : "USTC"
-  # uri              : # URL
+  uri              : # URL
   email            : "kkzhang@mail.ustc.edu.cn"
 
   # Academic websites
@@ -38,7 +38,7 @@ author:
   # semantic         : # URL
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Zhang-Kun-32"
-  Blog              : "https://www.cnblogs.com/lemonzhang"
+  # Blog              : "https://www.cnblogs.com/lemonzhang"
   
   # # Repositories and software development
   # bitbucket        : # Username - Update with your username on the site
