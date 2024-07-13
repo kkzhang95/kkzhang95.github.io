@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Kun Zhang"
 description              : &Postdoctoral fellow at USTC"
 url                      : https://kkzhang95.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "https://github.com/kkzhang95/kkzhang95.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "kkzhang95/kkzhang95.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -24,7 +24,7 @@ author:
   avatar           : "kkzhang1.png"
   name             : "KKZHANG"
   pronouns         : "好奇心，求知欲，理解力，创造力 \ Curiosity, Thirst for knowledge, Understanding, Creativity"  
-  bio              : "Short biography for the left-hand sidebar"
+  # bio              : "Short biography for the left-hand sidebar"
   # location         : "Earth"
   employer         : "USTC"
   # uri              : # URL
@@ -38,7 +38,8 @@ author:
   # semantic         : # URL
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Zhang-Kun-32"
-
+  Blog              : "https://www.cnblogs.com/lemonzhang"
+  
   # # Repositories and software development
   # bitbucket        : # Username - Update with your username on the site
   # codepen          : # Username
