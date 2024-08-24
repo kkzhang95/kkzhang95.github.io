@@ -22,13 +22,13 @@ repository               : "kkzhang95/kkzhang95.github.io"
 author:
   # Biographic information
   avatar           : "kkzhang1.png"
-  name             : "KKZHANG"
+  name             : "kkzhang@ustc.edu.cn"
   pronouns         : "好奇心，求知欲，理解力，创造力 \ Curiosity, Thirst for knowledge, Understanding, Creativity"  
   # bio              : "Short biography for the left-hand sidebar"
   # location         : "Earth"
   employer         : "USTC"
   uri              : "https://www.cnblogs.com/lemonzhang"
-  email            : "kkzhang@mail.ustc.edu.cn"
+  email            : "kkzhang@ustc.edu.cn"
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
