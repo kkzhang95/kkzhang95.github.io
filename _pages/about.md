@@ -16,19 +16,6 @@ My research interests broadly lie in the areas of Multimodal Artificial Intellig
 Publications
 ======
 
-    <!-- ACMMM23 -->
-    <div class="paper" id="xxx"><img class="paper" src="papers/2023/MGDN.png" />
-      <div>
-        <a><b>Mutual-Guided Dynamic Network for Image Fusion</b></a><br />
-        Yuanshen Guan, Ruikang Xu, <u><b style="color:darkred">Mingde Yao</b></u>, Lizhi Wang, and Zhiwei Xiong.<br />
-        <i>ACM International Conference on Multimedia <b><font color="DarkRed">(ACMMM)</font></b>, 2023</i><br />
-        [ <a href='https://arxiv.org/pdf/2308.12538.pdf'>PDF</a> ]
-        [ <a href='https://github.com/guanys-dar/mgdn'>Code</a> ]
-
-      </div>
-      <div class="spanner"></div>
-    </div>
-
 - **Kun Zhang**, Zhendong Mao, Quan Wang, Yongdong Zhang. Negative-Aware Attention Framework for Image-Text Matching, IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**, CCF A), 2022 [Paper](https://www.researchgate.net/publication/360642414_Negative-Aware_Attention_Framework_for_Image-Text_Matching) [Code](https://github.com/CrossmodalGroup/NAAF) [Blog](https://www.cnblogs.com/lemonzhang/p/16456403.html)
 - **Kun Zhang**, Lei Zhang, Bo Hu, Mengxiao Zhu, Zhendong Mao. Unlocking the Power of Cross-Dimensional Semantic Dependency for Image-Text Matching, ACM International Conference on Multimedia (**ACM MM**, CCF A), 2023 [Paper](https://www.researchgate.net/publication/374556150_Unlocking_the_Power_of_Cross-Dimensional_Semantic_Dependency_for_Image-Text_Matching) [Code](https://github.com/CrossmodalGroup/X-Dim) [Blog](https://www.cnblogs.com/lemonzhang/p/18267991)
 - **Kun Zhang**, Zhendong Mao, Anan Liu, Yongdong Zhang. Unified Adaptive Relevance Distinguishable Attention Network for Image-Text Matching, IEEE Transactions on Multimedia (**IEEE-TMM**, SCI I区TOP, IF=8.4), 2023 [Paper](https://www.researchgate.net/publication/357729033_Unified_Adaptive_Relevance_Distinguishable_Attention_Network_for_Image-Text_Matching) [Blog](https://www.cnblogs.com/lemonzhang/p/16507873.html) **ESI Highly Cited Paper**
